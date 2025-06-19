@@ -1,2 +1,2 @@
-# Edunet_Week1
+# Edunet_shell_internship 
 It is Greenhouse gas emission prediction project 
